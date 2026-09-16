@@ -26,6 +26,8 @@ idiomático_ para elixir.
 
   - No usar el módulo `Enum`.
   
+  - No usar la concatenación de listas.
+  
   - Escribir las funciones como una secuencia de _cláusulas_.
   
   - Usar el _pattern matching_ y las _guardas_ para definir las
